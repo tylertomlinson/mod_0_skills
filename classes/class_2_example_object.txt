@@ -1,0 +1,14 @@
+Smith Family Receipt
+
+Attributes
+Date (July 1, 2019)
+Items (pizza, burger, fries, soda)
+Amount (35.87)
+TipAmount (5)
+TotalAmount (40.87)
+
+Methods
+addItem (adds item to item array)
+calculate TipAmount (subtracts Amount from TotalAmount)
+addCurrentDate (adds current date to date attribute)
+printReceipt (prints current object in Receipt class)
