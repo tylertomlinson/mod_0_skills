@@ -1,0 +1,19 @@
+How to become a Turing student
+
+1. Google Turing
+  1.2 Click programs 
+    1.2.2 Decide to enroll in front end or backend
+    if frontend:
+      1.2.3 Click apply now under frontend
+    if backend:
+      1.2.3 Click apply now under backend
+2. Make turing.io account
+  2.1 Fill in appropriate fields
+3. Complete resume section
+4. Complete logic quiz
+5. Schedule interview
+  5.1 Interview will consist of two parts to go through
+    5.1.1 A collaborative logic evaluation, similar to the online quiz
+    5.1.2 A Q&A section where we learn more about you, your passions, and goals for your time at Turing
+6. Await acceptance email
+7. Enroll in Mod 0
