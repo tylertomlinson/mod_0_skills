@@ -1,0 +1,14 @@
+Glass
+
+Attributes
+Size (integer)
+Contents (array)
+Clean (boolean)
+totalCapacity (integer)
+currentCapacity (integer)
+
+Methods
+changeSize (changes current size of glass)
+changeContents (changes current contents of glass)
+is_clean (checks to see if glass is clean)
+calculateCapacity (subtracts current capacity from totalCapacity)
