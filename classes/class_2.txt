@@ -1,0 +1,14 @@
+Receipt
+
+Attributes
+Date (date.time)
+Items (array)
+Amount (integer)
+TipAmount (integer)
+TotalAmount (integer)
+
+Methods
+changeDate (changes date attribute)
+countItems (counts total number of items attribute)
+calculateTotalAmount (adds TipAmount and Amount)
+removeItem (removes an item from items attribute)
