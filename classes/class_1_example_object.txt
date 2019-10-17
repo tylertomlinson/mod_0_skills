@@ -1,0 +1,12 @@
+Beer Glass
+
+Size (16)
+Contents ("beer")
+Clean (false)
+totalCapacity (16)
+currentCapacity (0)
+
+removeContents (removes beer contents from Glass)
+fillGlass (adds contents up to totalCapacity)
+cleanGlass (removes currentCapacity from glass and adds true to clean)
+addContents (adds beer contents to glass)
