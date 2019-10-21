@@ -11,4 +11,4 @@ Methods
 change_date (date = August 3, 2019)
 count_items (items = 4)
 calculate_total_amount (50 + 10 = 60)
-add_tip (50 x .20 = 10)
+calculate_tip_amount (50 x .20 = 10)
