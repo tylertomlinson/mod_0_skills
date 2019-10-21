@@ -1,14 +1,14 @@
 Receipt
 
 Attributes
-Date (date.time)
-Items (array)
-Amount (integer)
-TipAmount (integer)
-TotalAmount (integer)
+date (date.time)
+items (array)
+amount (integer)
+tip_amount (integer)
+total_amount (integer)
 
 Methods
-changeDate (changes date attribute)
-countItems (counts total number of items attribute)
-calculateTotalAmount (adds TipAmount and Amount)
-removeItem (removes an item from items attribute)
+change_date (changes date attribute)
+count_items (counts total number of items)
+calculate_total_amount (adds tip_amount and amount)
+add_tip (multiplies amount by .20)

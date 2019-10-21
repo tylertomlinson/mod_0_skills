@@ -1,14 +1,15 @@
 Glass
 
 Attributes
-Size (integer)
-Contents (array)
-Clean (boolean)
-totalCapacity (integer)
-currentCapacity (integer)
+size (integer)
+contents (array)
+color (string)
+total_capacity (integer)
+current_capacity (integer)
+unfilled_capacity (integer)
 
 Methods
-changeSize (changes current size of glass)
-changeContents (changes current contents of glass)
-is_clean (checks to see if glass is clean)
-calculateCapacity (subtracts current capacity from totalCapacity)
+remove_contents (removes current_capacity to get unfilled_capacity to 0)
+fill_glass (adds contents in the amount of unfilled_capacity)
+change_color (changes current color of glass)
+calculate_percent_full (divides current_capacity by total_capacity)
