@@ -11,4 +11,4 @@ Methods
 change_date (changes date attribute)
 count_items (counts total number of items)
 calculate_total_amount (adds tip_amount and amount)
-add_tip (multiplies amount by .20)
+calculate_tip_amount (multiplies amount by .20)
